@@ -1,0 +1,15 @@
+{
+    "name": "angelocali/fuzzy-giggle",
+    "autoload": {
+        "psr-4": {
+            "Angelocali\\FuzzyGiggle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Angelo Cali",
+            "email": "eu.angelocali@gmail.com"
+        }
+    ],
+    "require": {}
+}
